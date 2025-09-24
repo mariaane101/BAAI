@@ -9,4 +9,5 @@
 
 # 3. Output
 print('Hello Tunghai University')
+print('Hello THU')
 print("I like Professor Kim's class a lot")
